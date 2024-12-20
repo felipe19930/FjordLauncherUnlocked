@@ -16,7 +16,7 @@ You **will not** ask about Fjord Launcher in the Prism Launcher discord.
 
 You **will** ask in #fjord-launcher in their [Matrix space](https://matrix.to/#/#unmojang:matrix.org).
 
-You **will** open an issue [here](https://github.com/unmojang/FjordLauncher/issues).
+You **will** open an issue [here](https://github.com/hero-persson/FjordLauncherUnlocked/issues).
 
 ## Installation
 
